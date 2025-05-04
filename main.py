@@ -1,1 +1,3 @@
-print("Hello, Vinay Kumar!")
+greet = "Bonjour!"
+
+print(greet + " Vinay Kumar!")
